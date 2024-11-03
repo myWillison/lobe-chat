@@ -153,6 +153,7 @@ LobeChat 支持文件上传与知识库功能，你可以上传文件、图片�
 - **Minimax**: 接入了 Minimax 的 AI 模型，包括 MoE 模型 **abab6**，提供了更多的选择空间。[了解更多](https://www.minimaxi.com/)
 - **DeepSeek**: 接入了 DeepSeek 的 AI 模型，包括最新的 **DeepSeek-V2**，提供兼顾性能与价格的模型。[了解更多](https://www.deepseek.com/)
 - **Qwen**: 接入了 Qwen 的 AI 模型，包括最新的 **qwen-turbo**，**qwen-plus** 和 **qwen-max** 等模型。[了解更多](https://help.aliyun.com/zh/dashscope/developer-reference/model-introduction)
+- **Novita AI**: 性价比最高的开源模型供应商，支持 **Llama**，**Mistral** 系列等最前沿的开源模型。在情感陪伴等场景表现优异，无任何内容限制或审查。 [了解更多](https://novita.ai/model-api/product/llm-api?utm_source=lobechat&utm_medium=ch&utm_campaign=api)
 
 同时，我们也在计划支持更多的模型服务商，如 Replicate 和 Perplexity 等，以进一步丰富我们的服务商库。如果你希望让 LobeChat 支持你喜爱的服务商，欢迎加入我们的[社区讨论](https://github.com/lobehub/lobe-chat/discussions/1284)。
 
@@ -273,14 +274,14 @@ LobeChat 的插件生态系统是其核心功能的重要扩展，它极大地�
 
 <!-- AGENT LIST -->
 
-| 最近新增                                                                                                                                                                       | 助手说明                                                                                                |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------- |
-| [健身专家](https://chat-preview.lobehub.com/market?agent=assistants-health-better)<br/><sup>By **[Lockeysama](https://github.com/Lockeysama)** on **2024-10-08**</sup>         | 知识渊博的健身专家<br/>`健身` `咨询` `生活问题` `建议`                                                  |
-| [代码优化 / 错误修改](https://chat-preview.lobehub.com/market?agent=code-review-and-fix)<br/><sup>By **[alphandbelt](https://github.com/alphandbelt)** on **2024-10-08**</sup> | 精通多种编程语言，优化代码结构，修复错误并提供优雅的解决方案。<br/>`代码优化` `错误修改` `多种编程语言` |
-| [伦理安全分析师](https://chat-preview.lobehub.com/market?agent=cyber-specialist)<br/><sup>By **[ayeantics](https://github.com/ayeantics)** on **2024-10-08**</sup>             | 专注于识别和减轻网络和移动平台中的安全漏洞。<br/>`网络安全` `伦理黑客` `漏洞评估` `咨询` `技术支持`     |
-| [Mistaker](https://chat-preview.lobehub.com/market?agent=english)<br/><sup>By **[Vork-IT](https://github.com/Vork-IT)** on **2024-10-08**</sup>                                | 通过清晰的解释和语法、发音示例来消除错误。<br/>`英语`                                                   |
+| 最近新增                                                                                                                                                                               | 助手说明                                                                                   |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| [机器视觉 latex](https://chat-preview.lobehub.com/market?agent=cv-latex)<br/><sup>By **[5xiao0qing5](https://github.com/5xiao0qing5)** on **2024-10-29**</sup>                         | 擅长机器学习与深度学习概念解析<br/>`机器学习` `深度学习` `图像处理` `计算机视觉` `la-te-x` |
+| [域名分析大师](https://chat-preview.lobehub.com/market?agent=domain)<br/><sup>By **[ccbikai](https://github.com/ccbikai)** on **2024-10-29**</sup>                                     | 擅长域名分析与幽默建议<br/>`域名分析` `幽默` `文化` `建站建议` `购买建议`                  |
+| [英戈・豪斯曼](https://chat-preview.lobehub.com/market?agent=pc-beschaffung-ingo-hausmann)<br/><sup>By **[bionicprompter](https://github.com/bionicprompter)** on **2024-10-29**</sup> | 英戈・豪斯曼希望就新购置的电脑进行咨询<br/>`公司` `硬件` `需求分析` `it` `应用`            |
+| [打印到表格](https://chat-preview.lobehub.com/market?agent=print-to-table)<br/><sup>By **[printtotable](https://github.com/printtotable)** on **2024-10-29**</sup>                     | 将图像数据转换为 Excel 中的组织表格。<br/>`数据提取` `表格` `广告` `影响者` `excel`        |
 
-> 📊 Total agents: [<kbd>**411**</kbd> ](https://github.com/lobehub/lobe-chat-agents)
+> 📊 Total agents: [<kbd>**430**</kbd> ](https://github.com/lobehub/lobe-chat-agents)
 
  <!-- AGENT LIST -->
 
